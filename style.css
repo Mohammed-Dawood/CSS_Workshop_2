@@ -1,0 +1,28 @@
+/*  body style  */
+body {
+    font-weight: 400;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: xx-large;
+    background: #F9F9F9;
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+}
+
+/* header style */
+header {
+    font-size: xx-large;
+    background: #FFA685;
+}
+
+/* nav style  */
+nav {
+    font-size: xx-large;
+    background: #FFA685;
+}
+
+/* footer style  */
+footer {
+    font-size: xx-large;
+    background: #FFA685;
+}
+
